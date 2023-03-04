@@ -1,4 +1,4 @@
-# Pesquisa de Iniciação Científica Game Design
+# Pesquisa de Iniciação Científica Game Design 🔍
 Artigo desenvolvido para o projeto de pesquisa de Iniciação Científica, apoiado pelo Programa Institucional de Bolsas de Iniciação Científica (PIBIC) do CNPq, no Ensino Médio Técnico de Programação de Jogos Digitais do Colégio FECAP.
 
 ## RESUMO
